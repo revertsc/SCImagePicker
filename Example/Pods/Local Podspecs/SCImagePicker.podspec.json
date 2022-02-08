@@ -1,0 +1,22 @@
+{
+  "name": "SCImagePicker",
+  "version": "0.1.0",
+  "summary": "A short description of SCImagePicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/revertsc/SCImagePicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "revertsc": "judal123@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/revertsc/SCImagePicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SCImagePicker/Classes/**/*"
+}
