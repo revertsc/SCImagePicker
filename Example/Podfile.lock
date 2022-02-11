@@ -1,0 +1,16 @@
+PODS:
+  - SCImagePicker (0.0.1)
+
+DEPENDENCIES:
+  - SCImagePicker (from `../`)
+
+EXTERNAL SOURCES:
+  SCImagePicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SCImagePicker: 4619ac431286943d64cf1b3e256b105f716ad52e
+
+PODFILE CHECKSUM: 7fdbb2ccdd9645436edfcf8376ca2d7938bd1faa
+
+COCOAPODS: 1.11.2
